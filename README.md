@@ -24,8 +24,3 @@ Aloqa (Contact) sahifasi
 
 SQLite bazasi bilan ishlash
 
-📁 Tuzilma
-shop.py
-templates/
-static/uploads/
-shop_un.db
